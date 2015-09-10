@@ -1,4 +1,6 @@
-﻿namespace FileNameAndFilePath
+﻿//Write a method that takes as a parameter the name of a text file, reads the file and returns its content as string. What should the method do if and exception is thrown?
+
+namespace FileNameAndFilePath
 {
     using System;
     using System.IO;

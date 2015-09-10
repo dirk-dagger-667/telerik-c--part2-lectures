@@ -1,5 +1,10 @@
 ﻿using System;
 
+//We are given a matrix of strings of size N x M. Sequences in the matrix we define as sets of several neighbor elements located on the same line, column or diagonal. Write a program that finds the longest sequence of equal strings in the matrix. Example:
+//ha fifi ho hi                s qq s
+//for ha hi xx -> ha, ha, ha   pp pp s -> s, s, s  
+//xxx ho ha xx                 pp qq s
+
 class LongestSequenceOfEqualStringInMatrix
 {
     static void Main()

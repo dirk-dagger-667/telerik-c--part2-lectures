@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads a string, reverses it and prints the result at the console.
+//Example: "sample"  "elpmas".
+
 namespace ReverseString
 {
     class AReversedString

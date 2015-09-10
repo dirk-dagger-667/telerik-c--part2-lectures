@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write methods to calculate minimum, maximum, average, sum and product of given set of integer numbers. Use variable number of arguments.
+
+
 namespace MinMaxAverageSumProduct
 {
     class Colculations

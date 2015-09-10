@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that extracts from a text all sentences that contain a particular word. We accept that the sentences are separated from each other by the character "." and the words are separated from one another by a character which is not a letter. Sample text:
+//We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinkingall the day. We will move out of it in 5 days.
+//Sample result:
+//We are living in a yellow submarine.
+//We will move out of it in 5 days.
+
 namespace SentenceExtractorIfWordIsPresent
 {
     class SentenceExtractor

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//* Write a program that finds the largest area of equal neighbor elements in a rectangular matrix and prints its size
+
 namespace LargestAreaOfEqualNeighborElements
 {
     class LargestEqualArea

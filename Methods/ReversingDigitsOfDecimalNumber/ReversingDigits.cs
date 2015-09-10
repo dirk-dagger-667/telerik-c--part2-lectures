@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a method that reverses the digits of given decimal number. Example: 256  652
+
+
 namespace ReversingDigitsOfDecimalNumber
 {
     class ReversingDigits

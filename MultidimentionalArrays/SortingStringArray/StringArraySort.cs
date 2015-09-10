@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+//You are given an array of strings. Write a method that sorts the array by the length of its elements (the number of characters composing them).
+
 namespace QuickSort
 {
     class QuickSort

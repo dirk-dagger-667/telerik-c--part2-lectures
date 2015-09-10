@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Net;
 
+//Write a method that takes as a parameter the name of a binary file, reads the content of the file and returns it as an array of bytes. Write a method that writes the file content to another file. Compare both files.
+
 class DownloadForTheNEt
 {
     static void Main()

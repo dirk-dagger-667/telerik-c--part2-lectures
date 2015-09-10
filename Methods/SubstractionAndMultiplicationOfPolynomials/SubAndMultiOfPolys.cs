@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Extend the program to support also subtraction and multiplication of polynomials.
+
+
 namespace SubstractionAndMultiplicationOfPolynomials
 {
     class SubAndMultiOfPolys

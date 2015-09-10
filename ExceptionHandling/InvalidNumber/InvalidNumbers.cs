@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Write a program that takes a positive integer from the console and prints the square root of this integer. If the input is negative or invalid print "Invalid Number" in the console. In all cases print "Good Bye".
+
 class InvalidSqrtInput
 {
     public static int SquereRoot(string number)

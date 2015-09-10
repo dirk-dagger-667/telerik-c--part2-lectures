@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads a string from the console and replaces every sequence of identical letters in it with a single letter (the repeating letter). Example: "aaaaabbbbbcdddeeeedssaa"  "abcdedsa".
+
 namespace SingleAccuranceOfRepeatingSequentionalLetters
 {
     class RedurerToSingleAccurence

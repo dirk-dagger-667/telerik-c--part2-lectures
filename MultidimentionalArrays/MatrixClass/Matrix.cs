@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Text;
 
+//* Write a class Matrix, to holds a matrix of integers. Overload the operators for adding, subtracting and multiplying of matrices, indexer for accessing the matrix content and ToString().
+
 class Matrix
 {
     private int[,] matrix;

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads a string from the console and prints in alphabetical order all letters from the input string and how many times each one of them occurs in the string.
+
 namespace LetterOrderingAndCounting
 {
     class OrdererAndCounter

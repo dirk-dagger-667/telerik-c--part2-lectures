@@ -4,6 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that extracts all the text without any tags and attribute values from an HTML document.
+//Sample text:
+//<html>
+//<head><title>News</title></head>
+//<body><p><a href="http://softuni.org">Software
+//University</a>aims to provide free real-world practical
+//training for young people who want to turn into
+//skillful software engineers.</p></body>
+//</html>
+//Sample result:
+//News
+//Software University aims to provide free real-world practical training for young people who want to turn into skillful software engineers.
+
 namespace ExtractingTextWithoutTags
 {
     class ExtractorWithoutTags

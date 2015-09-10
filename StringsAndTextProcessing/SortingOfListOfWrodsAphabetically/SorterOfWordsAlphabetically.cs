@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads a list of words separated by commas from the console and prints them in alphabetical order (after sorting).
+
 namespace SortingOfListOfWrodsAphabetically
 {
     class SorterOfWordsAlphabetically

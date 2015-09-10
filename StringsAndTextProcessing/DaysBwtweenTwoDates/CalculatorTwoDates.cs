@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads two dates entered in the format "day.month.year" and calculates the number of days between them.
+//Enter the first date: 27.02.2006
+//Enter the second date: 3.03.2006
+//Distance: 4 days
+
 namespace DaysBwtweenTwoDates
 {
     class CalculatorTwoDates

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that reads a year from the console and checks whether it is a leap. Use DateTime
+
 namespace LeapYear
 {
     class LPYear

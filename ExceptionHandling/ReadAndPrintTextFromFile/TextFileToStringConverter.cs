@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//Write a program to download a file from Internet by given URL, e.g. http://introprogramming.info/wp-content/themes/introprograming_en/ images/Intro-Csharp-Book-front-cover-big_en.png.
+
 namespace ReadAndPrintTextFromFile
 {
     class TextFileToStringConverter

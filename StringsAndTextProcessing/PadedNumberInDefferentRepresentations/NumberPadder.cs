@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Globalization;
 
+//Write a program that reads a number from console and prints it in 15-character field, aligned right in several ways: as a decimal number, hexadecimal number, percentage, currency and exponential (scientific) notation.
+
 namespace PadedNumberInDefferentRepresentations
 {
     class NumberPadder
