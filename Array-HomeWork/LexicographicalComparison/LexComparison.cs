@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+//Write a program that compares two char arrays lexicographically (letter by letter).
 
 namespace ComparingCharArrays
 {

@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm (find it in Wikipedia).
+
+
 namespace BinarySearch
 {
     class BinarySearch
     {
-
-
         static void Main(string[] args)
         {
             string inputArrayOne = Console.ReadLine();
