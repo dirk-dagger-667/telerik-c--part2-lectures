@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program that shows the binary representation of given 16-bit signed integer number (the C# type short).
+
+
 namespace BinRepresOf16BitInt
 {
     class Int16Int

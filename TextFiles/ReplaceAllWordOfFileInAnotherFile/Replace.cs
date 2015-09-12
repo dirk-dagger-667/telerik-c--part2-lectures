@@ -3,6 +3,9 @@ using System.IO;
 using System.Collections.Generic;
 using System.Security;
 
+//Write a program that removes from a text file all words listed in given another text file. Handle all possible exceptions in your methods.
+
+
 class Replace
 {
     static List<string> FillingListWithWordsFromTextFile(string filePathToWordsFile)

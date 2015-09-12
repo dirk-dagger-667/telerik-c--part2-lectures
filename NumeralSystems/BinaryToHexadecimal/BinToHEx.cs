@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program to convert binary numbers to hexadecimal numbers (directly).
+
+
 namespace BinaryToHexadecimal
 {
     class BinToHEx

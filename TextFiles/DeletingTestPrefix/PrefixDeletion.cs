@@ -2,6 +2,9 @@
 using System.IO;
 using System.Text.RegularExpressions;
 
+//Write a program that deletes from a text file all words that start with the prefix "test". Words contain only the symbols 0...9, a...z, A…Z, _.
+
+
 class PrefixDeletion
 {
     static void Main()

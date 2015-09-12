@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//Write a program that concatenates two text files into another text file.
+
+
 namespace TextFiles2in1
 {
     class TwoInOne

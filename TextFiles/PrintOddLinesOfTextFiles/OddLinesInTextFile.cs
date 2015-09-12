@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//Write a program that reads a text file and prints on the console its odd lines.
+
+
 namespace PrintOddLinesOfTextFiles
 {
     class OddLinesInTextFile

@@ -2,6 +2,9 @@
 using System.IO;
 using System.Text.RegularExpressions;
 
+//Modify the solution of the previous problem to replace only whole words (not substrings).
+
+
 class ReplaceWordsOnly
 {
     static void Main()

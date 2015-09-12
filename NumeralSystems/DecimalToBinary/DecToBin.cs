@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Write a program to convert decimal numbers to their binary representation.
+
+
 namespace DecimalToBinary
 {
     class DecToBin

@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//Write a program that reads a text file and inserts line numbers in front of each of its lines. The result should be written to another text file.
+
+
 namespace InsertingLineNumbers
 {
     class LineNumbers
